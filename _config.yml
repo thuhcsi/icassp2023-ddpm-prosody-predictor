@@ -1,3 +1,3 @@
-remote_theme: thuhcsi/slate
+remote_theme: thuhcsi/slate@mathjax-test
 title: Diverse and Expressive Speech Prosody Prediction with Denoising Diffusion Probabilistic Model
 description: Submitted to ICASSP 2023
