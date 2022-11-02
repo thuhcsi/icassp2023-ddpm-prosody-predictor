@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fthuhcsi.github.io%2Ficassp2023-ddpm-prosody-predictor%2F&count_bg=%230A7BD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Demo+hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Abstract
 
 Expressive human speech generally abounds with rich and flexible speech prosody variations. The speech prosody predictors in existing expressive speech synthesis methods mostly produce deterministic predictions, which are learned by directly minimizing the norm of prosody prediction error. Its unimodal nature leads to a mismatch with ground truth distribution and harms the model's ability in making diverse predictions. Thus, we propose a novel prosody predictor based on the denoising diffusion probabilistic model to take advantage of its high-quality generative modeling and training stability. Experiment results confirm that the proposed prosody predictor outperforms the deterministic baseline on both the expressiveness and diversity of prediction results even with fewer network parameters.
